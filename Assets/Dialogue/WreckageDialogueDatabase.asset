@@ -287,7 +287,7 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 30
+        x: 31
         y: 20
         width: 160
         height: 30
@@ -363,8 +363,8 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 28.590904
-        y: 261.49997
+        x: 26.590904
+        y: 263.49997
         width: 160
         height: 30
     - id: 2

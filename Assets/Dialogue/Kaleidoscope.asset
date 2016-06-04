@@ -194,21 +194,21 @@ MonoBehaviour:
       type: 5
       typeString: CustomFieldType_Actor
     overrideSettings:
-      useOverrides: 0
-      overrideSubtitleSettings: 0
+      useOverrides: 1
+      overrideSubtitleSettings: 1
       showNPCSubtitlesDuringLine: 1
       showNPCSubtitlesWithResponses: 1
       showPCSubtitlesDuringLine: 0
-      subtitleCharsPerSecond: 30
-      minSubtitleSeconds: 2
-      continueButton: 0
-      overrideSequenceSettings: 0
+      subtitleCharsPerSecond: 5
+      minSubtitleSeconds: 9.8
+      continueButton: 1
+      overrideSequenceSettings: 1
       defaultSequence: 
       defaultPlayerSequence: 
       defaultResponseMenuSequence: 
-      overrideInputSettings: 0
+      overrideInputSettings: 1
       alwaysForceResponseMenu: 1
-      responseTimeout: 0
+      responseTimeout: 3.24
     nodeColor: 
     dialogueEntries:
     - id: 0
@@ -254,7 +254,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: None()
+        value: 
         type: 0
         typeString: 
       - title: canvasRect
@@ -386,11 +386,11 @@ MonoBehaviour:
         type: 5
         typeString: 
       - title: Conversant
-        value: -1
+        value: 1
         type: 5
         typeString: 
       - title: Menu Text
-        value: 
+        value: Captain!
         type: 0
         typeString: 
       - title: Dialogue Text
@@ -436,7 +436,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 30
-        y: 119
+        y: 120.13637
         width: 160
         height: 30
     - id: 3
@@ -5590,15 +5590,15 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Actor
-        value: 4
+        value: 1
         type: 5
         typeString: 
       - title: Conversant
-        value: -1
+        value: 4
         type: 5
         typeString: 
       - title: Menu Text
-        value: 
+        value: Hello? Is anyone there?
         type: 0
         typeString: 
       - title: Dialogue Text
